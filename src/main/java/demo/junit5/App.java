@@ -13,7 +13,7 @@ public class App
         
     }
 
-    public static int adding(int a, int b) 
+    public  int adding(int a, int b) 
     {
         return a + b;
     }
